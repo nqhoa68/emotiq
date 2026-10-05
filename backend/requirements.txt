@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gradio
+spaces
+torch
+transformers
+pandas
+pydantic
+google-genai
+python-multipart
